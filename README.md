@@ -20,6 +20,7 @@ dase de datos:
 https://www.kaggle.com/teajay/global-shark-attacks
 
 librerias:
+
 pandas: https://pandas.pydata.org/docs/
 
 numpy : https://numpy.org/doc/1.21/
