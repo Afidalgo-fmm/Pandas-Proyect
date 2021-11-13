@@ -21,6 +21,9 @@ https://www.kaggle.com/teajay/global-shark-attacks
 
 librerias:
 pandas: https://pandas.pydata.org/docs/
+
 numpy : https://numpy.org/doc/1.21/
+
 Seaborn :  https://seaborn.pydata.org
+
 Matplotlib : https://matplotlib.org/stable/tutorials/index.html#intermediate
